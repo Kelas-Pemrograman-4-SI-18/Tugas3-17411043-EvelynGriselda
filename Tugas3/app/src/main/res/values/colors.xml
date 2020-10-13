@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="putih">#ffffff</color>
+    <color name="merah">#FF0000</color>
+    <color name="biru">#19d3da</color>
+    <color name="btn">#32e0c4</color>
+    <color name="btnsimpan">#01c5c4</color>
+    <color name="btnreset">#ff414d</color>
+</resources>
